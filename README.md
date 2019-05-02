@@ -10,6 +10,9 @@ book handler and book router- is functional based
 #after cloning the projects :
 
 try it out:in postman to get the books or you can post/create your book.
+
 1.get the books: localhost:8080/fbooks
+
 2.post the books: localhost:8080/fbook
-3.
+
+3.get one book: localhost:8080/fbook/{id}
